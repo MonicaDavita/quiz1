@@ -1,0 +1,83 @@
+body{
+    background-color: #92B4EC;
+}
+
+.title{
+    text-align: center;
+    font-family: 'Inter Tight', sans-serif; 
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1.5;
+    color: #FFFFFF;
+    margin-top: 20px;
+    position: relative;
+}
+
+span{
+    background-color: #2867B2;
+    position: relative;
+}
+
+.btn-primary, .btn-warning{
+    position: relative;
+    text-align: center;
+    margin-right: 15px;
+    top: 20px;
+    left: 520px;
+}
+.btn-link{
+    position: relative;
+    text-align: center;
+    left: 557px;
+    top: 30px;
+    color: #100F0F;
+}
+
+.rujak{
+    text-align: left;
+    margin-top: 20px;
+}
+
+h2{
+    font-family: 'Inter Tight', sans-serif; 
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1.5;
+    color: #2867B2;
+    margin-top: 30px;
+}
+
+h3{
+    font-family: 'Inter Tight', sans-serif; 
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #FFFFFF;
+}
+
+.h3-left{
+    margin-right: 500px;
+}
+
+.pic-left{
+    float: left;
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 15%;
+}
+.pic-right{
+    float: right;
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 15%;
+}
+
+.semanggi, .lontong-kupang{
+    margin-top: 10px;
+    text-align: right;
+}
+
+.h3-right{
+    margin-right: 100px;
+    margin-left: 500px;
+}
