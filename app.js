@@ -14,6 +14,10 @@ function showSlides() {
   setTimeout(showSlides, 2000); // Change image every 2 seconds
 }
 
+document.getElementById("Profile").onclick = function(){
+  location.href="./profile.html";
+};
+
 document.getElementById("Hometown").onclick = function(){
   location.href="./hometown.html";
 };

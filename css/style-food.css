@@ -18,7 +18,7 @@ span{
     position: relative;
 }
 
-.btn-primary, .btn-warning{
+.btn-sm{
     position: relative;
     text-align: center;
     margin-right: 15px;
