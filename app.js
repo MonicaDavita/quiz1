@@ -9,25 +9,25 @@ function showSlides() {
     slides[i].style.display = "none";
   }
   slideIndex++;
-  if (slideIndex > slides.length) {slideIndex = 1}
-  slides[slideIndex-1].style.display = "block";
+  if (slideIndex > slides.length) { slideIndex = 1 }
+  slides[slideIndex - 1].style.display = "block";
   setTimeout(showSlides, 2000); // Change image every 2 seconds
 }
 
-document.getElementById("Profile").onclick = function(){
-  location.href="./profile.html";
+document.getElementById("Profile").onclick = function () {
+  location.href = "./profile.html";
 };
 
-document.getElementById("Hometown").onclick = function(){
-  location.href="./hometown.html";
+document.getElementById("Hometown").onclick = function () {
+  location.href = "./hometown.html";
 };
 
-document.getElementById("Food").onclick = function(){
-  location.href="./food.html";
+document.getElementById("Food").onclick = function () {
+  location.href = "./food.html";
 };
-document.getElementById("Tourist").onclick = function(){
-  location.href="./tourist.html";
+document.getElementById("Tourist").onclick = function () {
+  location.href = "./tourist.html";
 };
-document.getElementById("back").onclick = function(){
-  location.href="./quiz1.html";
+document.getElementById("back").onclick = function () {
+  location.href = "./quiz1.html";
 };

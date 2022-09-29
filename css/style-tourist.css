@@ -1,19 +1,19 @@
-body{
+body {
     background-color: #F5F5F5;
 }
 
-h1{
+h1 {
     text-align: center;
-    font-family: 'Inter Tight', sans-serif; 
+    font-family: 'Inter Tight', sans-serif;
     font-size: 3rem;
     font-weight: 900;
     line-height: 1.5;
     color: #2867B2;
 }
 
-.title{
+.title {
     text-align: center;
-    font-family: 'Inter Tight', sans-serif; 
+    font-family: 'Inter Tight', sans-serif;
     font-size: 3rem;
     font-weight: 900;
     line-height: 1.5;
@@ -22,24 +22,26 @@ h1{
     position: relative;
 }
 
-span{
+span {
     background-color: #92B4EC;
     position: relative;
 }
 
-.button-container{
+.button-container {
     position: relative;
     bottom: 15px;
 }
 
-.btn-primary, .btn-warning{
+.btn-primary,
+.btn-warning {
     position: relative;
     text-align: center;
     margin-right: 15px;
     top: 20px;
     left: 520px;
 }
-.btn-link{
+
+.btn-link {
     position: relative;
     text-align: center;
     left: 557px;
@@ -47,13 +49,14 @@ span{
     color: #100F0F;
 }
 
-.monkasel, .ciputra{
+.monkasel,
+.ciputra {
     text-align: left;
     margin-top: 30px;
 }
 
-h2{
-    font-family: 'Inter Tight', sans-serif; 
+h2 {
+    font-family: 'Inter Tight', sans-serif;
     font-size: 2rem;
     font-weight: 700;
     line-height: 1.5;
@@ -61,37 +64,39 @@ h2{
     margin-top: 30px;
 }
 
-h3{
-    font-family: 'Inter Tight', sans-serif; 
+h3 {
+    font-family: 'Inter Tight', sans-serif;
     font-size: 1rem;
     font-weight: 500;
     line-height: 1.5;
     color: #100F0F;
 }
 
-.h3-left{
+.h3-left {
     margin-right: 500px;
 }
 
-.pic-left{
+.pic-left {
     float: left;
     margin-left: 30px;
     margin-right: 30px;
     width: 15%;
 }
-.pic-right{
+
+.pic-right {
     float: right;
     margin-left: 30px;
     margin-right: 30px;
     width: 15%;
 }
 
-.chinatown, .majapahit{
+.chinatown,
+.majapahit {
     margin-top: 10px;
     text-align: right;
 }
 
-.h3-right{
+.h3-right {
     margin-right: 100px;
     margin-left: 500px;
 }

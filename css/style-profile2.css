@@ -1,9 +1,9 @@
-body{
+body {
     background-color: #FFD24C;
 }
 
 .nav-text {
-    font-family: 'Inter Tight', sans-serif; 
+    font-family: 'Inter Tight', sans-serif;
     font-size: 1rem;
     font-weight: 600;
     line-height: 1.5;
@@ -18,47 +18,47 @@ body{
     top: 30px;
 }
 
-.profile-content{
+.profile-content {
     text-align: center;
 }
 
-.highlight{
+.highlight {
     background-color: #FFE69A;
 }
 
-h2{
-    font-family: 'Inter Tight', sans-serif; 
+h2 {
+    font-family: 'Inter Tight', sans-serif;
     font-size: 2rem;
     font-weight: 800;
     line-height: 3;
     color: #100F0F;
 }
 
-h3{
-    font-family: 'Inter Tight', sans-serif; 
+h3 {
+    font-family: 'Inter Tight', sans-serif;
     font-size: 1.5rem;
     font-weight: 600;
     line-height: 2;
     color: #FFFFFF;
 }
 
-h4{
-    font-family: 'Inter Tight', sans-serif; 
+h4 {
+    font-family: 'Inter Tight', sans-serif;
     font-size: 1rem;
     font-weight: 500;
     line-height: 1.5;
     color: #100F0F;
 }
 
-h5{
-    font-family: 'Inter Tight', sans-serif; 
+h5 {
+    font-family: 'Inter Tight', sans-serif;
     font-size: 1rem;
     font-weight: 300;
     line-height: 1.5;
     color: #100F0F;
 }
 
-.profile-pict{
+.profile-pict {
     width: 15%;
     margin-top: 30px;
     margin-bottom: 10px;
@@ -71,7 +71,7 @@ h5{
     margin-right: 20px;
     margin-top: 20px;
     margin-left: 10px;
-    padding-top: 5px;;
+    padding-top: 5px;
     font-size: 36px;
     width: 30px;
     height: 30px;
@@ -82,32 +82,32 @@ h5{
 
 .fa:hover {
     opacity: 0.7;
-  }
-  
+}
 
-.fa-whatsapp{
+
+.fa-whatsapp {
     background: #25D366;
     color: #FFFFFF;
 }
 
-.fa-github{
+.fa-github {
     background: #100F0F;
     color: #FFFFFF;
 }
 
-.fa-linkedin{
+.fa-linkedin {
     background: #0e76a8;
     color: #FFFFFF;
 }
 
-.about-content{
+.about-content {
     position: relative;
-    margin-top:20px;
+    margin-top: 20px;
     text-align: left;
     top: 20px;
 }
 
-.about-pict{
+.about-pict {
     position: relative;
     bottom: 50px;
     float: left;
@@ -117,18 +117,19 @@ h5{
     margin-left: 20px;
 }
 
-.about-text{
+.about-text {
     margin-right: 60px;
 }
 
-.education-title{
+.education-title {
     margin-top: 60px;
     margin-bottom: 30px;
     position: relative;
     right: 100px;
     text-align: center;
 }
-.edu-container-its{
+
+.edu-container-its {
     position: relative;
     text-align: left;
     margin-right: 100px;
@@ -136,26 +137,26 @@ h5{
     left: 40px;
 }
 
-.edu-its{
+.edu-its {
     bottom: 20px;
     width: 16%;
     float: left;
     position: relative;
     left: 5px;
-    margin-left:20px;
+    margin-left: 20px;
     margin-right: 20px;
 }
 
-.edu-smala{
+.edu-smala {
     bottom: 5px;
     width: 20%;
     float: left;
     position: relative;
-    margin-left:20px;
+    margin-left: 20px;
     margin-right: 10px;
 }
 
-.edu-container-smala{
+.edu-container-smala {
     text-align: left;
     position: relative;
     left: 420px;
@@ -163,7 +164,7 @@ h5{
     margin-right: 300px;
 }
 
-.organization-title{
+.organization-title {
     margin-top: 60px;
     margin-bottom: 30px;
     position: relative;
@@ -191,13 +192,18 @@ h5{
     animation-name: fade;
     animation-duration: 2s;
 }
-  
+
 @keyframes fade {
-    from {opacity: .4}
-    to {opacity: 1}
+    from {
+        opacity: .4
+    }
+
+    to {
+        opacity: 1
+    }
 }
 
-.org-text{
+.org-text {
     text-align: center;
     position: relative;
     right: 250px;
